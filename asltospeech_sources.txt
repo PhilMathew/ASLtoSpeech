@@ -1,0 +1,3 @@
+SOURCES FOR ASLTOSPEECH
+https://www.kaggle.com/grassknoted/asl-alphabet#asl_alphabet_train.zip
+
